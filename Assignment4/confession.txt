@@ -1,0 +1,5 @@
+For the ACE, it can be either a value of 1 or 11 when counts the score to make it less and closer to 21. 
+So the question comes: As we know when the dealer's score is less than 18, he will continue to hit. What about when he has an ACE?
+Say, when he has an ACE and a TEN, can he still hit?
+I am not certain and there is no obvious description in the assignment-specification, so I just leave the ACE as a value of 21 to 
+calculae the dealer's score when determining whether he can hit.
